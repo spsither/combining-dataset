@@ -1,2 +1,4 @@
 .env
 *.tsv
+downloaded_audio_files
+*.csv
