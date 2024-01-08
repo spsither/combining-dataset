@@ -2,3 +2,5 @@
 *.tsv
 downloaded_audio_files
 *.csv
+*.jsonl
+*.tar
